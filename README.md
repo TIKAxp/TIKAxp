@@ -78,7 +78,7 @@ MOTTO      Stay curious.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW_THE_JOURNEY-17152B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIKAxp)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-TAKE_A_LOOK-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIKAxp?tab=repositories)
-[![Discord](https://img.shields.io/badge/DISCORD-SAY_HELLO-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/slayer.tika)
+[![Discord](https://img.shields.io/badge/DISCORD-SAY_HELLO-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/slayer.tika](https://discord.com/users/718755571699810344))
 
 <br />
 
